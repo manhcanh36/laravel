@@ -41,7 +41,7 @@ class LoginController extends Controller
         if (Auth::guard('shipper')->attempt(
             ['email' => $request->email, 'password' => $request->password],  $request->remember
         )) {
-            // nếu đăng nhập thành công thì chuyển hướng về view dashboard của admin
+            // nếu đăng nhập thành công thì chuyển hướng về view dashboard của admin_assets
             return redirect()->intended(route('shipper.dashboard'));
         }
 

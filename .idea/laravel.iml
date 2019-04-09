@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/authen/tests" isTestSource="true" packagePrefix="Tests\" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/beyondcode/laravel-dump-server" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/authen/vendor/darryldecode/cart" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/dnoegel/php-xdg-base-dir" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/doctrine/instantiator" />
@@ -20,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/guzzlehttp/promises" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/authen/vendor/intervention/image" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/jakub-onderka/php-console-color" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/jakub-onderka/php-console-highlighter" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/laravel/framework" />
@@ -88,6 +90,7 @@
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/symfony/var-dumper" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/authen/vendor/unisharp/laravel-filemanager" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/authen/vendor/zendframework/zend-diactoros" />
